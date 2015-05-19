@@ -1,4 +1,4 @@
-LMSAndPerceptron
+#lms-and-perceptron
 ================
 
 lms.c implements least-mean-square neural network learning algorithm.
